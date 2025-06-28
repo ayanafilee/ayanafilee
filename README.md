@@ -5,21 +5,18 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/">
+  <a href="https://www.linkedin.com/in/ayanaf/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://t.me/ayanafile">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayanafilee.ayanafilee" />
 </div>
 
 ###
@@ -30,20 +27,13 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
 <p align="left">
-I'm a Frontend Developer from Ethiopia 🇪🇹<br><br>
-- 🔭 I’m currently working as a Frontend Developer Intern at <strong>Africa to Silicon Valley (A2SV)</strong><br>
-- 📚 I'm learning advanced frontend development and full-stack integration using React, Next.js, TypeScript, and RESTful APIs<br>
-- ⚡ In my free time I love solving real-world problems, building UI components, and exploring new technologies
+I'm a Frontend Developer from Ethiopia 🇪🇹 currently interning at Africa to Silicon Valley (A2SV), focused on building responsive, scalable web apps with React, Next.js, TypeScript, and Tailwind CSS. Passionate about translating designs into accessible code, solving real-world problems, and growing as a full-stack engineer.
 </p>
 
 ###
 
 <h3 align="left">🛠 Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -71,10 +61,27 @@ I'm a Frontend Developer from Ethiopia 🇪🇹<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🚧 Projects</h3>
+
+- <strong>Adot</strong>  
+  Implemented reusable UI components and followed scalable architecture practices for maintainable code.  
+  Translated Figma designs into responsive and accessible user interfaces across web and mobile platforms.  
+  Actively participated in Agile development practices including branching strategies, pull requests, and code reviews.  
+  [Learn more & live site](https://adot.life/en)  
+
+- <strong>Afro Vintage</strong>  
+  Developed responsive, role-based dashboards and marketplace features using Next.js and Tailwind CSS, including authentication flows, cart/checkout, and review systems.  
+  Ensured secure API integration, optimized UX with real-time updates, and maintained accessibility and performance best practices.
 
 ###
 
+<h3 align="left">🔥 My GitHub Stats</h3>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.vercel.app?user=ayanafilee&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=ayanafilee&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanafilee&show_icons=true&theme=dark&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanafilee&layout=compact&theme=dark&hide_border=false" height="180" alt="Top Languages" />
 </div>
