@@ -78,7 +78,7 @@ I'm a Frontend Developer from Ethiopia 🇪🇹 currently interning at Africa to
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=ayanafilee&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.vercel.app?user=ayanafilee&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
